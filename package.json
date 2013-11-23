@@ -4,14 +4,20 @@
   "author": "Your Name",
   "version": "0.0.1",
   "repository": "",
+  "private": true,
   "scripts": {
     "start": "brunch watch --server",
     "test": "brunch test"
   },
   "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
     "javascript-brunch": ">= 1.0 < 1.8",
     "css-brunch": ">= 1.0 < 1.8",
     "uglify-js-brunch": ">= 1.0 < 1.8",
-    "clean-css-brunch": ">= 1.0 < 1.8"
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "sass-brunch": "~1.7.2",
+    "coffee-script-brunch": "~1.7.3",
+    "auto-reload-brunch": "~1.7.1"
   }
 }
