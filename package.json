@@ -18,6 +18,7 @@
     "clean-css-brunch": ">= 1.0 < 1.8",
     "sass-brunch": "~1.7.2",
     "coffee-script-brunch": "~1.7.3",
-    "auto-reload-brunch": "~1.7.1"
+    "auto-reload-brunch": "~1.7.1",
+    "faye": "~1.0.0"
   }
 }
